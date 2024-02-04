@@ -1,0 +1,48 @@
+  body{
+    background-color: #92a8d1;
+}
+
+div{
+    
+    display: flex;
+    justify-content: center;
+   margin-top: 20vh; 
+
+    
+}
+label{
+    display: flex;
+    font-size: 25px;
+    color: #4f3222;
+    font-weight: bold;
+
+    align-items: center;
+}
+input{
+    padding: 5px;
+    border-radius: 5px;
+}
+#submit{
+    background-color: #eca1a6;
+    
+    font-size: 20px;
+    background: transparent;
+
+    color: #7a3b2e;
+    
+
+}
+#submit:hover{
+    cursor: pointer;
+    background-color: hwb(26 13% 76%);
+   color: white;
+   border-radius: 5px;
+}
+h1{
+    margin-left: -62px;
+    margin-bottom: 45px;
+color: #7a3b2e;
+
+} 
+
+

@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#eef2e2;
+}
+
+.login_page{
+    border: 2px solid black;
+    margin-top: 18%;
+    margin-left: 0%;
+    display: flex;
+    justify-content: center;
+
+margin-top: 210px;
+margin-left: 30%;
+margin-right: 30%;
+background-color:#c4c1e0;
+}
+.innerclass{
+   margin-top: 70px;
+   margin-bottom: 70px;
+
+}
+
+.loginpassword{
+font-size: large;
+margin-bottom: 10px;
+}
+
+
+.loginUsername{
+    margin-bottom: 10px;
+    font-size: large;
+}
+
+#newregistation a{
+    font-size: large;
+    margin-top: 10px;
+text-decoration: none;
+
+}
+#btn:hover{
+    cursor: pointer;
+    background-color: transparent;
+    box-shadow: 3px 1px 1px;
+
+}
